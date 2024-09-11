@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <h1>Hello Tewi.ai</h1>
   </div>
 </template>
